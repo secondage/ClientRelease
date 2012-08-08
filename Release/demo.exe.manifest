@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>4CuF5LlSB59iSyFZ5f6Hr4Un5mI=</dsig:DigestValue>
+        <dsig:DigestValue>Ha68/d39PqY9lJlRxYbbQtw1MiE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -931,6 +931,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>FCzqxryMDmeDUxB3JLSHCHXTTkQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="servers.xml" size="108" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>slLf252Ggp9WxV8TI8N5sSrFksA=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
