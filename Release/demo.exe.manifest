@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="95232">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="97792">
       <assemblyIdentity name="demo" version="1.0.3.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Ha68/d39PqY9lJlRxYbbQtw1MiE=</dsig:DigestValue>
+        <dsig:DigestValue>bfC2VTCAvok5rDIxyVIn4aBSlDA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -519,6 +519,15 @@
       <dsig:DigestValue>mGySiFujDz4RbpvMt9dAdc3zFTM=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Content\effect\fade.xnb" size="203">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LAZ1hKbmLRJiWNueom++2belRwo=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Content\effect\number.xnb" size="294">
     <hash>
       <dsig:Transforms>
@@ -924,22 +933,22 @@
       <dsig:DigestValue>diNvdcDpDtGEMuMQIHpkKK3qVHc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="scene1.xml" size="1005" writeableType="applicationData">
+  <file name="scene1.xml" size="1041" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>FCzqxryMDmeDUxB3JLSHCHXTTkQ=</dsig:DigestValue>
+      <dsig:DigestValue>7XHABRvD7Ac17oeaFNpuhUfH+IA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="servers.xml" size="108" writeableType="applicationData">
+  <file name="servers.xml" size="106" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>slLf252Ggp9WxV8TI8N5sSrFksA=</dsig:DigestValue>
+      <dsig:DigestValue>9uTXdOlN5XL+f7GV4VkKuNbJciE=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
