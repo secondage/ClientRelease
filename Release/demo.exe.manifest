@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Game.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="demo" version="1.0.5.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="demo" version="1.0.6.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="demo.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="98816">
-      <assemblyIdentity name="demo" version="1.0.5.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="100352">
+      <assemblyIdentity name="demo" version="1.0.6.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>+Jcc0/bJU9hPz2M5ULgp2mvhgp8=</dsig:DigestValue>
+        <dsig:DigestValue>yEVhf8/vOgvs0yCIuF3x9yZfDOU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
