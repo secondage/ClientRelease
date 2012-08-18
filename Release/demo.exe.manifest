@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="100352">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="99328">
       <assemblyIdentity name="demo" version="1.0.6.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>yEVhf8/vOgvs0yCIuF3x9yZfDOU=</dsig:DigestValue>
+        <dsig:DigestValue>VFw54Oquj6ls3CKT48RirBYJWTs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
