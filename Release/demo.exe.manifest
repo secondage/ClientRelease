@@ -62,19 +62,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>rJqZaU3vfOeDETURiqxkJDTw/yk=</dsig:DigestValue>
+        <dsig:DigestValue>vkVLeGUO0+FU0MGzpbJy2tPwGd8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="99328">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="99840">
       <assemblyIdentity name="demo" version="1.0.6.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>VFw54Oquj6ls3CKT48RirBYJWTs=</dsig:DigestValue>
+        <dsig:DigestValue>PbBsH5xYjWWBPyJRnHXVgVF/+iE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>zOutQ55jeee/oNknvydoICXeCro=</dsig:DigestValue>
+        <dsig:DigestValue>4KglpwZt8Xq7+NX8vLZg6QYX3GY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -128,7 +128,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>NrtNDLRsVxGWMdjaSxxHg2aI7uo=</dsig:DigestValue>
+        <dsig:DigestValue>pgKUNiqzSC3zmhK8b3GICKMioyw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -140,19 +140,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>fGx5Ck7/AAwsloItjF5HjQ7Gz6E=</dsig:DigestValue>
+        <dsig:DigestValue>wAVm2unH5DFBkLVguPK/RRqxW9Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProjectXServer.Messages.dll" size="11776">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProjectXServer.Messages.dll" size="12800">
       <assemblyIdentity name="ProjectXServer.Messages" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>zOreObdr6KZEyA48y4TspFLVT2g=</dsig:DigestValue>
+        <dsig:DigestValue>rQK84ZZO5Bwy3C+Q/vOFQYJkYiw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -188,7 +188,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Qwf/He3ZAf4l87HqP0qH+wKbXr8=</dsig:DigestValue>
+        <dsig:DigestValue>aDK5HnJvkUUiKWvJCI7jc7+q/1s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -200,7 +200,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Rrgjn2L/Emx5NZpt+cPSJNSo8o0=</dsig:DigestValue>
+        <dsig:DigestValue>TQ9jbhRQzI+ouw8TihCk7t3sadU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -303,13 +303,13 @@
       <dsig:DigestValue>rsnZ7WCheXqmq4IZ5lW8gZ8PnIQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\character\char3.xnb" size="490496">
+  <file name="Content\character\char3.xnb" size="410816">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>tNsYR3p5zs5xaLm3jNmqCOdtcLI=</dsig:DigestValue>
+      <dsig:DigestValue>+mO0uAqCUyhG6hILkhKj1oSGT4w=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\chardef\boss1_1.xnb" size="442">
@@ -348,13 +348,13 @@
       <dsig:DigestValue>z1Sdj6K7eGmsXSxi2ja1CM2Asjk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\chardef\char3.xnb" size="500">
+  <file name="Content\chardef\char3.xnb" size="554">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>73ub3Y7RmGdYr0ZnYHNvFs1PYks=</dsig:DigestValue>
+      <dsig:DigestValue>Z6DdlCOky+cCK6rjv4qTVSScB6s=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\chardef\spell1.xnb" size="418">
@@ -609,13 +609,13 @@
       <dsig:DigestValue>glvhC7940mu4y/lxdBuUtfkTLd0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\minimap\maskeffect.xnb" size="450">
+  <file name="Content\minimap\maskeffect.xnb" size="446">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>BxijfSm9lpynvid1o0NFWcqblRM=</dsig:DigestValue>
+      <dsig:DigestValue>lyXyZp26Ai3YwKWd8jQ1MOz2J78=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\minimap\scene1.xnb" size="186806">
