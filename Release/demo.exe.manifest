@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Game.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="demo" version="1.0.6.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="demo" version="1.0.7.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="demo.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -68,13 +68,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="101888">
-      <assemblyIdentity name="demo" version="1.0.6.0" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="demo" version="1.0.7.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>JmtgAXpzUe+qAX1HlQM3oupmNBk=</dsig:DigestValue>
+        <dsig:DigestValue>ejzrRyUZXegxxu28vJPIRcRFFEs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -258,13 +258,13 @@
       <dsig:DigestValue>FRCtEMt78SiBnJvDx7ukajimXbA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\background\yun_b1.xnb" size="162164">
+  <file name="Content\background\yun_b1.xnb" size="198538">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>JC4Bj8nKbfQ4PxvMjJeBIUresUM=</dsig:DigestValue>
+      <dsig:DigestValue>j+lxbtAjdMdVO1QXe6sdlHZ8wyA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\character\boss_1_1.xnb" size="998506">
