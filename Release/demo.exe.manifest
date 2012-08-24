@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Game.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="demo" version="1.0.7.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="demo" version="1.0.8.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="demo.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="101888">
-      <assemblyIdentity name="demo" version="1.0.7.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="106496">
+      <assemblyIdentity name="demo" version="1.0.8.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ejzrRyUZXegxxu28vJPIRcRFFEs=</dsig:DigestValue>
+        <dsig:DigestValue>Y92aH65LzeO0rHRd3W8zvcr13Xw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -348,13 +348,13 @@
       <dsig:DigestValue>z1Sdj6K7eGmsXSxi2ja1CM2Asjk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\chardef\char3.xnb" size="554">
+  <file name="Content\chardef\char3.xnb" size="544">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Z6DdlCOky+cCK6rjv4qTVSScB6s=</dsig:DigestValue>
+      <dsig:DigestValue>uZGR03tYJN7yNSPH0cLmcuRasBo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\chardef\spell1.xnb" size="418">
@@ -573,13 +573,13 @@
       <dsig:DigestValue>1BigeVAnw8iWeo1eZI1KWzp7En8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\font\YaHeiCh16.xnb" size="78032">
+  <file name="Content\font\YaHeiCh16.xnb" size="78026">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>qVGiUZD/ez/7+k82DSN8V1Pw7K4=</dsig:DigestValue>
+      <dsig:DigestValue>n/0/+F5FChtywvdKS1gDFz1MTe8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\minimap\charactericon.xnb" size="600">
