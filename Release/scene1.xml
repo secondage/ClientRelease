@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SceneDef>
   <Config>
     <FixedEnemyNum>2</FixedEnemyNum>
@@ -18,9 +18,9 @@
       <Picture>char1</Picture>
       <Speed>0</Speed>
       <Quest>
-        <quest1/>
-        <quest2/>
-        <quest3/>
+        <quest1 />
+        <quest2 />
+        <quest3 />
       </Quest>
     </Npc>
     <Npc>
@@ -47,8 +47,22 @@
     <HoverStone>
       <Texture>stone1</Texture>
       <Position>
+        <X>1948.734</X>
+        <Y>2614.736</Y>
+      </Position>
+      <Layer>20</Layer>
+      <Size>
+        <X>1</X>
+        <Y>1</Y>
+      </Size>
+      <Range>10</Range>
+      <CycleTime>2</CycleTime>
+    </HoverStone>
+    <HoverStone>
+      <Texture>stone1</Texture>
+      <Position>
         <X>200</X>
-        <Y>200</Y>
+        <Y>203.7358</Y>
       </Position>
       <Layer>20</Layer>
       <Size>
