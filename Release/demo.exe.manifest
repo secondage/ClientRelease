@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Swq1E1RcCbWagBx6vuqMO9RttxE=</dsig:DigestValue>
+        <dsig:DigestValue>XvoXyyQKubu3iGRoHPcxJQEhRvM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -645,6 +645,15 @@
       <dsig:DigestValue>27sT9qif5f920StxRoP9yiUTIb0=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Content\particles\BasicExplosion.xnb" size="886">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+ys2UNCjZU7niIguX6TDDYSKCHs=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Content\particles\Beam.xnb" size="5842">
     <hash>
       <dsig:Transforms>
@@ -661,6 +670,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>P6+iwJVXm2bipxYM1HlvqLrYJUo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\particles\BeamMeUp.xnb" size="742">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sQ0rghw+oo5AYslEh04BmxwNSB4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\particles\Cloud001.xnb" size="6564">
@@ -733,6 +751,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>9EAoPRHHFdJDOIrF5rBaO1cOe/0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\particles\magictrail.xnb" size="780">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2VlTDtU33Xq6maQMJLPu6oIsNIo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\particles\MultiDot.xnb" size="1088">
