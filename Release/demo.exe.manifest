@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="122368">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="122880">
       <assemblyIdentity name="demo" version="1.0.8.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>OQ7J1omqusLn0KwUTr+So223rrs=</dsig:DigestValue>
+        <dsig:DigestValue>oa7wCtrLj0kdhozKTxvsB5SEjHo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1284,13 +1284,13 @@
       <dsig:DigestValue>HNcWiyMKnw88U/E0rGx+mWNVdAg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="scene1.xml" size="1478" writeableType="applicationData">
+  <file name="scene1.xml" size="1538" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>z4h8MXqgQQwJbEnI3zow46sq5fA=</dsig:DigestValue>
+      <dsig:DigestValue>WDVAytYbf1tvYpuubR7RPxMoKn0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="servers.xml" size="106" writeableType="applicationData">
