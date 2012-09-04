@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="122880">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="122368">
       <assemblyIdentity name="demo" version="1.0.8.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Ic7UnXAR3n54MwN35mBwHGcIDek=</dsig:DigestValue>
+        <dsig:DigestValue>Swq1E1RcCbWagBx6vuqMO9RttxE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1048,6 +1048,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>2d59nQf74k18YWDtK71HA5Piz28=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\ui\loading.xnb" size="19342">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IEoJW8a3hwlixuE/7NEKsD+lAU8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\ui\playerturn.xnb" size="44900">
