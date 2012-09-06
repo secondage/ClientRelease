@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Game.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="demo" version="1.0.8.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="demo" version="1.0.9.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="demo.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="122368">
-      <assemblyIdentity name="demo" version="1.0.8.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="123392">
+      <assemblyIdentity name="demo" version="1.0.9.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ZueURFmuzMwqYLWr6xLjq0UdYTE=</dsig:DigestValue>
+        <dsig:DigestValue>7b3Lhc6ViL2KVD1U5+tTdHjTbQw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -145,14 +145,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProjectMercury.dll" size="56832">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProjectMercury.dll" size="56320">
       <assemblyIdentity name="ProjectMercury" version="4.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ORTli/SLMp0eUlnayvS8QPc0Taw=</dsig:DigestValue>
+        <dsig:DigestValue>jkJvhKnx7Rc/KKzV2+neqXnbuJc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -609,13 +609,13 @@
       <dsig:DigestValue>glvhC7940mu4y/lxdBuUtfkTLd0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\minimap\maskeffect.xnb" size="448">
+  <file name="Content\minimap\maskeffect.xnb" size="452">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>/qWdXh8rSvPrsmDbS6yj4hTG/AU=</dsig:DigestValue>
+      <dsig:DigestValue>G7y6FTW/pEO+lyo9yrxI3ap+rkI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\minimap\scene1.xnb" size="186806">
@@ -645,13 +645,13 @@
       <dsig:DigestValue>QTj1GvbVtJbR0SCLXmy4D4xsqFc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\particles\BasicExplosion.xnb" size="886">
+  <file name="Content\particles\BasicExplosion.xnb" size="888">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>wv5HxY9o3m2BzImPW/UojIzS3vg=</dsig:DigestValue>
+      <dsig:DigestValue>WvWpnuEZfZ0q0rHNOmftPMmWILw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\particles\Beam.xnb" size="5842">
@@ -672,13 +672,31 @@
       <dsig:DigestValue>GVUtjUqIbBT9k6JWbEtLrWEQu04=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\particles\BeamMeUp.xnb" size="742">
+  <file name="Content\particles\BeamMeUp.xnb" size="746">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>9pW3Cm3MDDUjVReXks6xpMxLGlM=</dsig:DigestValue>
+      <dsig:DigestValue>yiZ3Y6XBl/E9vDqm4Odj4ZQh3Wo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\particles\click.xnb" size="434">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AsYvMteiEXg7aflOE6Df6Kvke/A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\particles\clickeffect.xnb" size="578">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vOiOiXAHB9ggIWkmpxijz/vbHbg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\particles\Cloud001.xnb" size="6564">
@@ -753,13 +771,13 @@
       <dsig:DigestValue>O/KNh5YIaqdbBLUhnW/ATbTACaI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\particles\magictrail.xnb" size="780">
+  <file name="Content\particles\magictrail.xnb" size="778">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>5rWowuoXCY5/DmIo5gIbz7VglUE=</dsig:DigestValue>
+      <dsig:DigestValue>+SkVJfe9slB/dgimhZHLy4on2fI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\particles\MultiDot.xnb" size="1088">
@@ -1149,6 +1167,15 @@
       <dsig:DigestValue>ISCc+7piOIPTS02IYtuoS8XC0gg=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Content\uicontrols\UIButton_Escape.xnb" size="310">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>EUW1+3gqZVza7p9uDPL5Pg5uKWI=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Content\uicontrols\UIDialog.xnb" size="300">
     <hash>
       <dsig:Transforms>
@@ -1273,6 +1300,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>uWtLWHv6ui5LIFVlXkobKvIUmN4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="particles\clickeffect.xml" size="1379" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>VwP3g2mF18xn7SEKJ1z7ddYk7vI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="particles\magictrail.xml" size="4103" writeableType="applicationData">
