@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="123392">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="123904">
       <assemblyIdentity name="demo" version="1.0.9.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7b3Lhc6ViL2KVD1U5+tTdHjTbQw=</dsig:DigestValue>
+        <dsig:DigestValue>9Rfm7+ZIfij1YYMQEZU1PZ/X+BQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1059,13 +1059,13 @@
       <dsig:DigestValue>kEen5oJJf8QuTcMPN97B0Hjl+ZY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\ui\controls.xnb" size="568">
+  <file name="Content\ui\controls.xnb" size="5558">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>FZlefD3tVdwjvRW4ryZSRq0NX6g=</dsig:DigestValue>
+      <dsig:DigestValue>BJr5c4oxXI8R1F7mIHWSrPwoqPU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\ui\dialog.xnb" size="13924">
@@ -1167,13 +1167,31 @@
       <dsig:DigestValue>ISCc+7piOIPTS02IYtuoS8XC0gg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\uicontrols\UIButton_Escape.xnb" size="310">
+  <file name="Content\uicontrols\UIButton_Attack.xnb" size="314">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>EUW1+3gqZVza7p9uDPL5Pg5uKWI=</dsig:DigestValue>
+      <dsig:DigestValue>n4J/rheLxfKFrd5tMcc9UBwRPjg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\uicontrols\UIButton_Escape.xnb" size="304">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OxU/dHOgY9qCOzwOZHjahznORjo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\uicontrols\UIButton_Magic.xnb" size="328">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ew5hegMXge7dv/2TluqmWomswOc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\uicontrols\UIDialog.xnb" size="300">
