@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>9Rfm7+ZIfij1YYMQEZU1PZ/X+BQ=</dsig:DigestValue>
+        <dsig:DigestValue>ddDgxMTxxOU/f4u+uo+ewoEzVRY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -643,15 +643,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>QTj1GvbVtJbR0SCLXmy4D4xsqFc=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Content\particles\BasicExplosion.xnb" size="888">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>WvWpnuEZfZ0q0rHNOmftPMmWILw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\particles\Beam.xnb" size="5842">
