@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ReEdTRueotYyl64a4EkRK4XUliY=</dsig:DigestValue>
+        <dsig:DigestValue>HkE2mA3BH9i2N/vxZeclRrXGAWA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -176,7 +176,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>fMhVxtP1X1mVptO7hp8IHWAkV8M=</dsig:DigestValue>
+        <dsig:DigestValue>e3kv6Bdh7clZaxQhYMcX1L46lpM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -702,13 +702,13 @@
       <dsig:DigestValue>glvhC7940mu4y/lxdBuUtfkTLd0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\minimap\maskeffect.xnb" size="448">
+  <file name="Content\minimap\maskeffect.xnb" size="446">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>e7wnaU1LwPFsDyX6d+t4hZGDFfw=</dsig:DigestValue>
+      <dsig:DigestValue>d+/HQlX2/Qd17fE5nlBRggcdVSQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\minimap\scene1.xnb" size="186806">
@@ -1422,13 +1422,13 @@
       <dsig:DigestValue>HNcWiyMKnw88U/E0rGx+mWNVdAg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="scene1.xml" size="1656" writeableType="applicationData">
+  <file name="scene1.xml" size="3283" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>tkIrVPp2kdvD9ysHb+KOzI9WWT0=</dsig:DigestValue>
+      <dsig:DigestValue>PReL9ibAxNJX3MhOGZ+AAJx4fgI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="servers.xml" size="106" writeableType="applicationData">

@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SceneDef>
   <Config>
     <FixedEnemyNum>2</FixedEnemyNum>
-    <PlayerSpeed>300</PlayerSpeed>
+    <PlayerSpeed>200</PlayerSpeed>
     <PlayerHP>300</PlayerHP>
     <PlayerATK>60</PlayerATK>
     <BossRushMode>2</BossRushMode>
@@ -15,33 +15,24 @@
   </Config>
   <NpcDef>
     <Npc>
-      <Name>npc1</Name>
+      <Name>Diva</Name>
       <Hp>100</Hp>
-      <ScreenX>1500</ScreenX>
+      <ScreenX>900</ScreenX>
       <ScreenY>1500</ScreenY>
       <Layer>15</Layer>
       <Picture>char1</Picture>
       <Speed>0</Speed>
       <Quest>
-        <quest1/>
-        <quest2/>
-        <quest3/>
+        <quest1 />
+        <quest2 />
+        <quest3 />
       </Quest>
     </Npc>
     <Npc>
-      <Name>npc2</Name>
+      <Name>Devil</Name>
       <Hp>100</Hp>
-      <ScreenX>3000</ScreenX>
-      <ScreenY>2000</ScreenY>
-      <Layer>15</Layer>
-      <Picture>char1</Picture>
-      <Speed>0</Speed>
-    </Npc>
-    <Npc>
-      <Name>boss</Name>
-      <Hp>100</Hp>
-      <ScreenX>1600</ScreenX>
-      <ScreenY>1600</ScreenY>
+      <ScreenX>1590</ScreenX>
+      <ScreenY>1470</ScreenY>
       <Layer>15</Layer>
       <Picture>char2</Picture>
       <Speed>0</Speed>
@@ -52,13 +43,97 @@
     <HoverStone>
       <Texture>stone1</Texture>
       <Position>
-        <X>200</X>
-        <Y>200</Y>
+        <X>745</X>
+        <Y>593.6501</Y>
+      </Position>
+      <Layer>18</Layer>
+      <Size>
+        <X>2.2</X>
+        <Y>2.2</Y>
+      </Size>
+      <Range>10</Range>
+      <CycleTime>2</CycleTime>
+    </HoverStone>
+    <HoverStone>
+      <Texture>stone1</Texture>
+      <Position>
+        <X>1266</X>
+        <Y>27.61047</Y>
+      </Position>
+      <Layer>15</Layer>
+      <Size>
+        <X>3.4</X>
+        <Y>3.4</Y>
+      </Size>
+      <Range>10</Range>
+      <CycleTime>2</CycleTime>
+    </HoverStone>
+    <HoverStone>
+      <Texture>stone1</Texture>
+      <Position>
+        <X>900</X>
+        <Y>1606.61</Y>
+      </Position>
+      <Layer>15</Layer>
+      <Size>
+        <X>1</X>
+        <Y>1</Y>
+      </Size>
+      <Range>1</Range>
+      <CycleTime>1</CycleTime>
+    </HoverStone>
+    <HoverStone>
+      <Texture>stone1</Texture>
+      <Position>
+        <X>1315.338</X>
+        <Y>999.7444</Y>
+      </Position>
+      <Layer>15</Layer>
+      <Size>
+        <X>1</X>
+        <Y>1</Y>
+      </Size>
+      <Range>10</Range>
+      <CycleTime>2</CycleTime>
+    </HoverStone>
+    <HoverStone>
+      <Texture>stone1</Texture>
+      <Position>
+        <X>256</X>
+        <Y>1114.61</Y>
       </Position>
       <Layer>20</Layer>
       <Size>
-        <X>2</X>
-        <Y>2</Y>
+        <X>2.2</X>
+        <Y>2.2</Y>
+      </Size>
+      <Range>10</Range>
+      <CycleTime>2</CycleTime>
+    </HoverStone>
+    <HoverStone>
+      <Texture>stone1</Texture>
+      <Position>
+        <X>1618</X>
+        <Y>424.6105</Y>
+      </Position>
+      <Layer>21</Layer>
+      <Size>
+        <X>2.2</X>
+        <Y>2.2</Y>
+      </Size>
+      <Range>10</Range>
+      <CycleTime>2</CycleTime>
+    </HoverStone>
+    <HoverStone>
+      <Texture>stone1</Texture>
+      <Position>
+        <X>1693</X>
+        <Y>494.6105</Y>
+      </Position>
+      <Layer>15</Layer>
+      <Size>
+        <X>0.9999999</X>
+        <Y>0.9999999</Y>
       </Size>
       <Range>10</Range>
       <CycleTime>2</CycleTime>
