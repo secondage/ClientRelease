@@ -9,6 +9,9 @@
     <BossRushMode1Offset>200</BossRushMode1Offset>
     <ViewportScrollRange>200</ViewportScrollRange>
     <ViewportScrollResetTime>1.0</ViewportScrollResetTime>
+    <SceneWidth>2048</SceneWidth>
+    <SceneHeight>2048</SceneHeight>
+    <SceneScaleFactor>1.0</SceneScaleFactor>
   </Config>
   <NpcDef>
     <Npc>
