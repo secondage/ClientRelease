@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>5xlvE6uzArwUFYDYIsW8qfnlFsI=</dsig:DigestValue>
+        <dsig:DigestValue>zCI5ZMqZuWvM/FM3xGJXl4UyRnE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -324,6 +324,15 @@
       <dsig:DigestValue>+mO0uAqCUyhG6hILkhKj1oSGT4w=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Content\character\devil.xnb" size="30278">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6uZz1OIEHelOJXLQ2llFa6tEsiY=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Content\character\diva.xnb" size="27734">
     <hash>
       <dsig:Transforms>
@@ -457,6 +466,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>uZGR03tYJN7yNSPH0cLmcuRasBo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\chardef\devil.xnb" size="510">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6cyTkAbYHwIhWNhcrPBeB/shDVk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\chardef\diva.xnb" size="512">
@@ -1455,7 +1473,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>GvBfFn/f+6XXnn4Bxfo9JSx32Yg=</dsig:DigestValue>
+      <dsig:DigestValue>UQzsJ/md/kACuuqLMPqN1FfYXkw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="servers.xml" size="106" writeableType="applicationData">
