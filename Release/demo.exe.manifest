@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="126976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="demo.exe" size="127488">
       <assemblyIdentity name="demo" version="1.0.9.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>CHL2vbB/FQ+5KZFnSWCLfkbNEFA=</dsig:DigestValue>
+        <dsig:DigestValue>5xlvE6uzArwUFYDYIsW8qfnlFsI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -324,6 +324,15 @@
       <dsig:DigestValue>+mO0uAqCUyhG6hILkhKj1oSGT4w=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Content\character\diva.xnb" size="27734">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Fj+AfcYmr+FjE1OLUplUwfuMcgc=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Content\character\dude.xnb" size="672592">
     <hash>
       <dsig:Transforms>
@@ -448,6 +457,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>uZGR03tYJN7yNSPH0cLmcuRasBo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\chardef\diva.xnb" size="512">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>fW226GwOA5mcB+EqNcWBJzDrmpQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\chardef\spell1.xnb" size="418">
@@ -718,6 +736,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>JwxRQ6B28Ovk9n8EEbwJTyXTmN4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\npcface\Diva_Avatar.xnb" size="93486">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MHlgGFtgyaD1nHSVBqhgVSmZP34=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\npcface\NPC01.xnb" size="20512">
@@ -1422,13 +1449,13 @@
       <dsig:DigestValue>HNcWiyMKnw88U/E0rGx+mWNVdAg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="scene1.xml" size="3283" writeableType="applicationData">
+  <file name="scene1.xml" size="3282" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>PReL9ibAxNJX3MhOGZ+AAJx4fgI=</dsig:DigestValue>
+      <dsig:DigestValue>GvBfFn/f+6XXnn4Bxfo9JSx32Yg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="servers.xml" size="106" writeableType="applicationData">
