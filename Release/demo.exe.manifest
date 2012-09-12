@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>zCI5ZMqZuWvM/FM3xGJXl4UyRnE=</dsig:DigestValue>
+        <dsig:DigestValue>I6JtI/R/rBD+6j7bQITJ0qJbMY4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -279,22 +279,22 @@
       <dsig:DigestValue>j+lxbtAjdMdVO1QXe6sdlHZ8wyA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\character\boss_1_1.xnb" size="998506">
+  <file name="Content\character\boss_1_1.xnb" size="866652">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>klJPTP0RF6vDItSCfjuzg5tFjik=</dsig:DigestValue>
+      <dsig:DigestValue>DNa9l9i604jjP01yfZbGOObla9w=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\character\boss_1_2.xnb" size="790570">
+  <file name="Content\character\boss_1_2.xnb" size="476476">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>6+JI9tQjQdLjJ8GkgVPT0MfsNbU=</dsig:DigestValue>
+      <dsig:DigestValue>iKH4m3kGj/ISma7XsDwHyc2EVlE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\character\char1.xnb" size="342018">
@@ -423,22 +423,22 @@
       <dsig:DigestValue>6HPPGjtuXKDzKPf4XcUDkMtH5RQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\chardef\boss1_1.xnb" size="442">
+  <file name="Content\chardef\boss1_1.xnb" size="446">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>+7kP95LBhQ3rNlXO/2IdWPh90jg=</dsig:DigestValue>
+      <dsig:DigestValue>cAUVMjQVDClZ2NZwm+0BOJzJp7o=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\chardef\boss1_2.xnb" size="434">
+  <file name="Content\chardef\boss1_2.xnb" size="408">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>b4fhBgy4b12xNvmIZPL7yNA7UFg=</dsig:DigestValue>
+      <dsig:DigestValue>cY5+qmXP7p9tQScmi0MbcF3pngk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\chardef\char1.xnb" size="504">
@@ -474,7 +474,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>6cyTkAbYHwIhWNhcrPBeB/shDVk=</dsig:DigestValue>
+      <dsig:DigestValue>P5w7He48Qqe7PDolTJtuG4g3OOk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\chardef\diva.xnb" size="512">
@@ -1098,22 +1098,22 @@
       <dsig:DigestValue>fukVwLajphnRrrtZbcyIDnzf830=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\quest\quest2.xnb" size="584">
+  <file name="Content\quest\quest2.xnb" size="590">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>1O4hWck8TjCVkdp3QONcfi/JhuU=</dsig:DigestValue>
+      <dsig:DigestValue>+aHLPEhLfzPkzzdEaGFUBU/5/Lk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\quest\quest3.xnb" size="548">
+  <file name="Content\quest\quest3.xnb" size="558">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>+TRICnRbsqoeIJrHwKgw0YJGZg8=</dsig:DigestValue>
+      <dsig:DigestValue>rA9vHbBZz0wLoj/S3ESg+8ZFuSQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\questicon\done.xnb" size="9012">
